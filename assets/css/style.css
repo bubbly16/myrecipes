@@ -1,0 +1,36 @@
+//** Navbar **//
+
+
+
+//** Footer **//
+
+footer {
+    min-height: 100px;
+    margin: 0;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.social-links {
+    padding-bottom: 10px;
+}
+
+.social-links li a i {
+    width: 40px;
+    height: 40px;
+    padding: 16px 0;
+    border-radius: 50%;
+    font-size: 18px;
+    line-height: 10px;
+    text-align: center;
+    transition: all 0.45s ease-in-out;
+    -moz-transition: all 0.45s ease-in-out;
+    -webkit-transition: all 0.45s ease-in-out;
+    -o-transition: all 0.45s ease-in-out;
+}
+
+.social-links li a i:hover {
+    color: rgb(255, 0, 0);
+}
