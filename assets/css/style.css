@@ -13,6 +13,10 @@ body {
 
 /** Navbar **/
 
+nav {
+    padding-bottom: 20px;
+}
+
 .nav-link {
     color: #f2f4f3;
 }
@@ -30,6 +34,8 @@ body {
 .body--color {
     background-color: #a9927d;
     color: #5e503f;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 /** Footer **/
